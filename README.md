@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <!-- Prepare a banner. The banner dimensions are best if they’re 1280x640px. -->
-<!-- ![Banner](https://raw.githubusercontent.com/)  -->
+![Banner](https://raw.githubusercontent.com/PeterWorakarn/PeterWorakarn/main/Banner%20%E2%80%93%20X%403x.png)
 
 <!-- Headline -->
 # **Hi there 👋**
