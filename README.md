@@ -19,7 +19,7 @@ Hi, I'm [Peter Oun](https://www.linkedin.com/in/worakarn-o/), a self-taught web 
 - [Bangkok Thonburi University's Admission website](https://bkkthon-admission.com)
 - [Foster (competition with Honorable mention award)](https://try.seedwebs.app/Foster)
 - [EQplusland](https://eqplusland.com)
-- [iZZi guide](https://izzi-guide.com)
+- [iZZi guide](https://izziguide.com)
 
 ### **📃 Resume :**  [Worakarn O.](https://drive.google.com/drive/folders/1z55G6Qu5ro3bytyLsiaEW4PsxqTiBMQj?usp=sharing)
 <br>
