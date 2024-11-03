@@ -14,9 +14,9 @@ Hi, I'm [Peter O](https://www.linkedin.com/in/worakarn-o/), a self-taught web de
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f829305ce9f4ca589729a8?variant=dark)](https://roadmap.sh)
 
 
-### **👨‍💻 About Me :**  [Worakarn Ounhattapradit](https://www.peter-o.tech/)
+### **👨‍💻 About Me :**  [Worakarn Ounhattapradit](https://www.peter-o.xyz/)
 
-### **📃 Resume :**  [Worakarn Ounhattapradit](https://www.peter-o.tech/resume)
+### **📃 Resume :**  [Worakarn Ounhattapradit](https://www.peter-o.xyz/resume)
 ### **📃 Client Project :**  [Web Dev Project](https://docs.google.com/presentation/d/1wo7mqf4qjk0GJMj01CqIUMfFQsztVgh1ZOLhEUnvQV4/edit?usp=sharing)
 
 ### **✉ Contact info:**  
